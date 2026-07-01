@@ -1,0 +1,26 @@
+{
+    "name": "UIMarquee.Spine",
+    "rootNamespace": "ZStudio",
+    "references": [
+        "UIMarquee",
+        "spine-unity",
+        "spine-csharp"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UIMARQUEE_SPINE"
+    ],
+    "versionDefines": [
+        {
+            "name": "com.esotericsoftware.spine.spine-unity",
+            "expression": "",
+            "define": "UIMARQUEE_SPINE"
+        }
+    ],
+    "noEngineReferences": false
+}
